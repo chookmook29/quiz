@@ -14,7 +14,6 @@ with open('trmtrkt.csv', mode='r') as csv_file:
 	for letter in cropped:
 		one_string = one_string + letter + '. '
 	check = 'midfield' in position
-	print(check)
 	if check:
 		position = position + 'er'
 	print(f'{attr_list[5]} years old {position} from {attr_list[1]} worth {attr_list[3]}.\nRepresents {attr_list[4]}.\nSo far played in {attr_list[6]} league games this season.')
