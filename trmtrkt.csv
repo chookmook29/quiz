@@ -1,4 +1,4 @@
-name,nat_team,position,value,club,age,games
+Name,Club,Position,Value,Nation,Age,Games
 Kylian Mbappé,Paris SG,centre-forward,£180.00m,France,20,6
 Neymar,Paris SG,left winger,£162.00m,Brazil,27,5
 Mohamed Salah,Liverpool,right winger,£135.00m,Egypt,27,9
@@ -162,7 +162,7 @@ Hakim Ziyech,Ajax,right winger,£36.00m,Morocco,26,10
 Thomas Lemar,Atlético Madrid,left winger,£36.00m,France,23,9
 Jonathan Tah,Bay. Leverkusen,centre-back,£36.00m,Germany,23,7
 Arkadiusz Milik,SSC Napoli,centre-forward,£36.00m,Poland,25,4
-Héctor Bellerín,Arsenal,right-back,£36.00m,Spain,24,-
+Héctor Bellerín,Arsenal,right-back,£36.00m,Spain,24,0
 Corentin Tolisso,Bayern Munich ,central midfield,£36.00m,France,25,6
 Ante Rebic,AC Milan,second striker,£36.00m,Croatia,26,4
 Piotr Zielinski,SSC Napoli,central midfield,£36.00m,Poland,25,9
@@ -396,7 +396,7 @@ André Silva,E. Frankfurt,centre-forward,£19.80m,Portugal,23,4
 Florian Grillitsch,TSG Hoffenheim,central midfield,£19.80m,Austria,24,7
 Davy Klaassen,Werder Bremen,central midfield,£19.80m,Netherlands,26,9
 Mike Maignan,LOSC Lille,goalkeeper,£19.80m,France,24,11
-Daniele Rugani,Juventus,centre-back,£19.80m,Italy,25,-
+Daniele Rugani,Juventus,centre-back,£19.80m,Italy,25,0
 Jesús Corona,FC Porto,right-back,£19.80m,Mexico,26,8
 Héctor Herrera,Atlético Madrid,central midfield,£19.80m,Mexico,29,4
 Erik Lamela,Spurs,right winger,£19.80m,Argentina,27,9
@@ -437,7 +437,7 @@ Aarón Martín,1.FSV Mainz 05,left-back,£18.00m,Spain U21,22,7
 Lewis Cook,Bournemouth,central midfield,£18.00m,England U21,22,4
 Ayoze Pérez,Leicester,second striker,£18.00m,Spain U21,26,9
 Wendell,Bay. Leverkusen,left-back,Â£18.00m,Brazil,26,8
-Mariano Díaz,Real Madrid,centre-forward,£18.00m,Dominican Rep.,26,-
+Mariano Díaz,Real Madrid,centre-forward,£18.00m,Dominican Rep.,26,0
 Marko Grujic,Hertha BSC,central midfield,£18.00m,Serbia,23,9
 Thomas Strakosha,Lazio,goalkeeper,£18.00m,Albania,24,9
 Andrea Petagna,SPAL,centre-forward,£18.00m,Italy,24,9
@@ -491,7 +491,7 @@ Steven Nzonzi,Galatasaray,defensive midfield,£17.10m,France,30,8
 Matheus Henrique,Grêmio,central midfield,£16.20m,Brazil,21,14
 Benoît Badiashile,Monaco,centre-back,£16.20m,France U19,18,9
 Colin Dagba,Paris SG,right-back,£16.20m,France U21,21,5
-Pedro,Fiorentina,centre-forward,£16.20m,Brazil U23,22,-
+Pedro,Fiorentina,centre-forward,£16.20m,Brazil U23,22,0
 Fran Beltrán,Celta de Vigo,central midfield,£16.20m,Spain U21,20,7
 Boubacar Kamara,Marseille,centre-back,£16.20m,France U21,19,8
 Sean Longstaff,Newcastle,central midfield,£16.20m,England,21,8
