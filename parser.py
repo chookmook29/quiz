@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 with open('trmtrkt.csv', mode='w') as csv_file:
     page_mechanism = 1
     trmtrkt_writer = csv.writer(csv_file, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    trmtrkt_writer.writerow(['name', 'nat_team', 'position', 'value', 'club', 'age', 'games'])
+    trmtrkt_writer.writerow(['name', 'nat_team', 'position', 'value', 'club', 'age', 'games', 'page'])
     while page_mechanism < 21:
         playerNumber = 0
         while playerNumber < 25:
@@ -48,7 +48,7 @@ with open('trmtrkt.csv', mode='w') as csv_file:
             else:
                 seasonGames = seasonGames.text 
             print(Players[playerNumber].text)
-            trmtrkt_writer.writerow([(Players[playerNumber].text), (clubTeam[2].text), position, value_f, (clubTeam[0].text), ageClean, seasonGames])
+            trmtrkt_writer.writerow([(Players[playerNumber].text), (clubTeam[2].text), position, value_f, (clubTeam[0].text), ageClean, seasonGames, page_mechanism])
             playerNumber += 1
         playerNumber = 0
         page_mechanism += 1
